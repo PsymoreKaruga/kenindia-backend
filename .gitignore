@@ -1,0 +1,5 @@
+﻿# Environment files
+calculator/utils/.env
+.env
+*.env
+.env.local
